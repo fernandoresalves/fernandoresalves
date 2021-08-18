@@ -14,6 +14,6 @@
 </div>
 
 <div>
-Olá, sou Fernando Alves pode me chamar de Fernando mesmo 🙃. Sou desenvolvedor Full Stack, tenho a manha 😎 no front-end e back-end, tenho 37 anos e +13 anos de atuação com TI. Gosto de futebol ⚽, pedalar é uma grande curtição 🚴‍♂️ e curto de muito ler  📚.
+Olá, sou Fernando Alves pode me chamar de Fernando mesmo 🙃. Sou desenvolvedor Full Stack, tenho a manha 😎 no front-end e back-end, tenho 37 anos e +13 anos de atuação com TI. Gosto de futebol ⚽, pedalar é uma grande curtição 🚴‍♂️ e curto muito ler  📚.
 </div>
 
